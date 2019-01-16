@@ -5,7 +5,7 @@ This provides [Terraform](https://www.terraform.io/) scripts to setup Azure iPaa
 
 ## More Readings ##
 
-* 한국어: TBD
+* 한국어: [애저 PaaS 테라포밍](https://blog.aliencube.org/ko/2019/01/17/terraforming-azure-paas/)
 * English: TBD
 
 
